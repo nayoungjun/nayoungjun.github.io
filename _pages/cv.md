@@ -17,7 +17,7 @@ Education
   * M.S. in Computer Science (en-route)
 * M.S. in Bioengineering, Yale University, 2015
 * B.S. in Life Sciences, Korea University, 2014
-* Student exchange program, University of Wisconsin-Madisn, 2011-2012
+* Student exchange program, University of Wisconsin-Madison, 2011-2012
 
 <p>&nbsp;</p>
 
