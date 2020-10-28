@@ -8,3 +8,6 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Retinal Mosaic Demo"
+    url: http://18.206.126.140:8050/
