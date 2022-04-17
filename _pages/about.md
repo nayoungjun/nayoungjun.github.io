@@ -15,10 +15,10 @@ In the past, I received my Master’s degree in Biomedical Engineering at Yale U
 
 ## Recent News
 
+Mar 17 2022: I will present my recent work *Efficient Coding of Natural Movies Predicts the Optimal Number of Receptive Field Mosaics* at [Cosyne2022](https://www.cosyne.org/)
+
 Oct 1 2021: [National Eye Institute](https://www.nei.nih.gov/about/news-and-events/news/living-retina-achieves-sensitivity-and-efficiency-engineers-can-only-dream-about) spotlighted our research story! Thanks for supporting our research.
 
 Sep 28 2021: I am excited and honored that my research is featured in [Duke Today](https://today.duke.edu/2021/09/living-retina-achieves-sensitivity-and-efficiency-engineers-can-only-dream-about), [Science Daily](https://www.sciencedaily.com/releases/2021/09/210928130825.htm), [EurekAlert](https://www.eurekalert.org/news-releases/929849), [MedicalXPress](https://medicalxpress.com/news/2021-09-retina-sensitivity-efficiency.html), and many other news sources. 
 
 Sep 28 2021: Our recent work [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/abs/2108.13941) has been accepted to NeurIPS 2021!
-
-Mar 17 2022: I will present my recent work *Efficient Coding of Natural Movies Predicts the Optimal Number of Receptive Field Mosaics* at [Cosyne2022](https://www.cosyne.org/)
