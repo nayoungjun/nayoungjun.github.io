@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/CV_nayoung_jun.pdf">Download a PDF version</a>
+<a href="/files/CV_nayoung_jun.pdf">Download PDF</a>
 
+<!--
 Education
 ======
 * Ph.D. in Neurobiology, Duke University (expected in 2022)
@@ -93,7 +94,6 @@ Presentations
   - Biomedical Engineering Special Investigation Presentation, Yale University, 2014
 
 
-<!--  
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
