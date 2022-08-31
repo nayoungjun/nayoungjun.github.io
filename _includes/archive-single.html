@@ -36,7 +36,12 @@
 
     {% if post.banner %}
       <p>
-        <img src="{{ post.banner }}" alt="banner" style="min-width: 320px; max-width: 100%;" />
+        {% assign post_ext = post.banner | split:'.' | last %}
+        {% if post_ext == 'mp4' %}
+          <video src="{{ post.banner }}" alt="banner" style="min-width: 320px; max-width: 100%;"></video>
+        {% elsif %}
+          <img src="{{ post.banner }}" alt="banner" style="min-width: 320px; max-width: 100%;" />
+        {% endif %}
       </p>
     {% endif %}
     
