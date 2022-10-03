@@ -15,9 +15,11 @@ In the past, I received my Master’s degree in Biomedical Engineering at Yale U
 
 ## Recent News
 
+Sep 14 2022: My recent work [Efficient coding, channel capacity and the emergence of retinal mosaics](https://www.biorxiv.org/content/10.1101/2022.08.29.505726v2) has been accepted to NeurIPS 2022!
+
 May 9 2022: I joined the CTRL team at Meta Reality Labs as a research scientist intern. I am super excited to be a part of the team building a neural interface for billions of users! 
 
-Mar 17 2022: I will present my recent work *Efficient Coding of Natural Movies Predicts the Optimal Number of Receptive Field Mosaics* at [Cosyne2022](https://www.cosyne.org/)
+Mar 17 2022: I will present my recent work *Efficient Coding of Natural Movies Predicts the Optimal Number of Receptive Field Mosaics* at [Cosyne2022](https://www.cosyne.org/).
 
 Oct 1 2021: [National Eye Institute](https://www.nei.nih.gov/about/news-and-events/news/living-retina-achieves-sensitivity-and-efficiency-engineers-can-only-dream-about) spotlighted our research story! Thanks for supporting our research.
 
