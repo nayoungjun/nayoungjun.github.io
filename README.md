@@ -1,1 +1,1 @@
-Personal website for Na Young Jun, using the Github Pages template 'acadmicpages' for academic websites.
+Personal website for Na Young Jun, using the Github Pages template 'academicpages' for academic websites.
